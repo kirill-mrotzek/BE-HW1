@@ -23,9 +23,9 @@ public class Homework1 {
         System.out.println("long: " + g);
 
         int number = 345;
-        int hundreds = (number / 100);
-        int teens = (number / 10) % 10;
-        int units = number % 10;
+        int hundreds = 3;
+        int teens = 4;
+        int units = 5;
 
         System.out.println("Число " + number + " -> "+ hundreds + "," + teens + "," + units);
     }
